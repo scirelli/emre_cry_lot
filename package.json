@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ensdomains/address-encoder": "^0.2.10",
+    "bech32-buffer": "^0.1.3"
+  }
+}
